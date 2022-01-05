@@ -10,11 +10,11 @@ permalink: /about.html
 
 你可以通过以下方式联系作者
 
-QQ: 1316341442
+QQ: 神奇的QQ号
 
 Email: <a href="mailto:lk@atlinker.cn">lk@atlinker.cn</a>
 
-Github: [link9596](https://github.com/link9596)
+Github: [xplusy44](https://github.com/xplusy44)
 
 ## #赞赏
 
@@ -22,6 +22,6 @@ Github: [link9596](https://github.com/link9596)
 
 <center>扫下方付款二维码即可向作者赞赏!</center>
 
-![wechat](https://atlinker.cn/pay/wechat.png)
+![wechat](https://atlinker.cn/pay/wechat.png)似乎可以加图片
 
-![pay](https://atlinker.cn/pay/apay.png)
+![pay](https://atlinker.cn/pay/apay.png)似乎还可以加图片
