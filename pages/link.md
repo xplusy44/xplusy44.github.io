@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Links
-tagline: My friends.
+title: 社交？
+tagline: 社交帐号
 permalink: /links.html
 ---
 
