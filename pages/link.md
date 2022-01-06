@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 友链
-tagline: 这里有另一些我
+tagline: 这里有关于我的另一些东西(=_=)
 permalink: /links.html
 ---
 
