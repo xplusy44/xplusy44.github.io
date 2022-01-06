@@ -1,12 +1,12 @@
-- name: Link
+- name: 知乎
   image: https://atlinker.cn/avatar/avatar.png
-  url: https://atlinker.cn/
-  describe: Link's Blog
+  url: https://www.zhihu.com/people/ji-zhi-de-miao-59
+  describe: 知乎
 
-- name: Daily
-  image: https://atlinker.cn/avatar/default.png
-  url: https：//linker.ml/daily/
-  describe: Daily
+- name: 豆瓣
+  image: https://img2.doubanio.com/icon/ul252135620-2.jpg
+  url: https://www.douban.com/people/252135620/?_i=1480958eLwCDzv
+  describe: 豆瓣
 
 # - name: Links Name
 #  image: http://example.com/img.png
