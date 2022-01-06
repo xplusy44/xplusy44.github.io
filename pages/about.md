@@ -1,16 +1,16 @@
 ---
 layout: page
 title: x+y
-tagline: 我是谁？
+tagline: x+y是谁？
 sitetime: display
 permalink: /about.html
 ---
 
 ## 我？
 
-我是项嘉颖，简称x+y
+我是项嘉颖，简称x+y. 哈哈哈哈哈哈哈哈哈我喜欢这个名字。
 
-如果想认识我，可以通过以下方式联系我！！！
+如果想认识我，可以通过以下方式联系我！
 
 QQ: 1831414537
 
