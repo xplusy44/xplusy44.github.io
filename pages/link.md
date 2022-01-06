@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 社交？
-tagline: 社交帐号
+title: 友链
+tagline: 这里有另一些我
 permalink: /links.html
 ---
 
