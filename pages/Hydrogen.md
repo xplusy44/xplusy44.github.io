@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: explore
 title: 探索
 tagline: 关于新世界的探索
 ---
