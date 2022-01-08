@@ -14,6 +14,6 @@ permalink: /about.html
 
 QQ: 1831414537
 
-这是我的github账号，欢迎指导！
+这是我的github，欢迎指导！
 
 Github: [xplusy44](https://github.com/xplusy44)
