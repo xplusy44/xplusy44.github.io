@@ -18,7 +18,7 @@ paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
 background: https://user-images.githubusercontent.com/96682133/148393559-1d3218f0-70af-43c8-85da-7d2154e0536b.png
-theme_color: 0B3861
+theme_color: 18465C
 
 # hydrogen-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
