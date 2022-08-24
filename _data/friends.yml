@@ -1,8 +1,3 @@
-- name: 知乎
-  image: https://pic4.zhimg.com/v2-59330489443c6405b5595f22dd07cfef_xl.jpg
-  url: https://www.zhihu.com/people/ji-zhi-de-miao-59
-  describe: 知乎
-
 - name: 豆瓣
   image: https://img9.doubanio.com/icon/ul252135620-4.jpg
   url: https://www.douban.com/people/252135620/?_i=1480958eLwCDzv
